@@ -491,11 +491,11 @@ def main():
 
             ###########
             
-            if pos_frame == 2000:
+            #if pos_frame == 2000:
             #cross_correlate(frame, template)
             
             #find_bounding_box(sift, frame, template, kp1, desc1)
-                break
+            #    break
                 
             ############
             #cv2.waitKey(20000)
